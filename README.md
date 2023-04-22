@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm gdsk2</h1>
 <h3 align="center">I'm bug hunter & web application pentester & CTF player</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdsk2&label=Profile%20views&color=0e75b6&style=flat" alt="gdsk2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fantomeg" target="blank"><img src="https://img.shields.io/twitter/follow/fantomeg?logo=twitter&style=for-the-badge" alt="fantomeg" /></a> </p>
 
