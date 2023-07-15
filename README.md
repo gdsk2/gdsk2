@@ -5,7 +5,7 @@
 <a href="https://gdsk2.github.io/"><img src="./img/site.gif" style="width:30px;padding-right:10px;"></a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/g_gdsk2"><img src="./img/twitter.gif" style="width:30px;padding-right:10px;"></a>
-### 🧰 Languages and Tools
+### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
