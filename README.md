@@ -1,7 +1,9 @@
 # 🕸 gdsk2
 **` web application pentester (bug bounty/CTF)`**
----
+#
 ### Connect with me:
+&nbsp;&nbsp;
+[![twitter](./img/icons8-twitter.gif)](https://twitter.com/g_gdsk2)
 &nbsp;&nbsp;
 [![website](./img/icons8-twitter.gif)](https://twitter.com/g_gdsk2)
 &nbsp;&nbsp;
@@ -21,7 +23,10 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
+#
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="gdsk2's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gdsk2&show_icons=true&theme=graywhite" />
 
-[website]: https://gdsk2.github.io/
-[twitter]: https://twitter.com/g_gdsk2
+</details>
