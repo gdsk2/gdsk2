@@ -3,8 +3,7 @@
 ---
 ### Connect with me:
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/g_gdsk2#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/g_gdsk2#gh-dark-mode-only)
+[![website](./img/icons8-twitter.gif)](https://twitter.com/g_gdsk2)
 &nbsp;&nbsp;
 ### 🧰 Languages and Tools
 
