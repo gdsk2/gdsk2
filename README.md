@@ -1,6 +1,6 @@
 # 🕸 gdsk2
 **` web application pentester (bug bounty/CTF)`**
-#
+
 ### Connect with me:
 <a href="https://gdsk2.github.io/"><img src="./img/site.gif" style="width:30px;padding-right:10px;"></a>
 &nbsp;&nbsp;
@@ -18,6 +18,7 @@
 <img align="left" alt="bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br />
 <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
