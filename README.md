@@ -4,7 +4,7 @@
 ### Connect with me:
 <a href="https://gdsk2.github.io/" target="_blank"><img src="./img/site.gif" style="width:30px;padding-right:10px;"></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/g_gdsk2" target="_blank"><img src="./img/twitter.gif" style="width:30px;padding-right:10px;"></a>
+<a href="https://twitter.com/g_gdsk2" target="_blank"><img src="./img/twitter.png" style="width:30px;padding-right:10px;"></a>
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
