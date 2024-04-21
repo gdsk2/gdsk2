@@ -1,5 +1,5 @@
 # 🕸 gdsk2
-**` web application pentester (bug bounty/CTF)`**
+**`(bug bounty/Pwn)`**
 
 ### Connect with me:
 <a href="https://twitter.com/g_gdsk2" target="_blank"><img src="./img/twitter.png" style="width:30px;padding-right:10px;"></a>
